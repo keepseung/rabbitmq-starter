@@ -1,0 +1,6 @@
+spring:
+  rabbitmq:
+    host: localhost
+    username: seung
+    password: 1234
+    port: 5672
